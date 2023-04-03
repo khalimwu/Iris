@@ -1,0 +1,2 @@
+gradlew iris
+pause
